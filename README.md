@@ -27,8 +27,8 @@ I'm a 2nd-year Computer Engineering student focusing on **Java** and **Web Techn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADINIZ]&show_icons=true&theme=dark" alt="Sefa's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[KULLANICI_ADINIZ]&theme=dark" alt="Sefa's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SefaKaya4&show_icons=true&theme=dark" alt="Sefa's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SefaKaya4&theme=dark" alt="Sefa's GitHub Streak" />
 </p>
 
 ---
